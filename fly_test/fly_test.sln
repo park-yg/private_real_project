@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fly_test.CSharp.Plugins", "fly_test.CSharp.Plugins.csproj", "{35803F52-A1DB-35B1-2EE0-7AEE6D61980F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fly_test.CSharp", "fly_test.CSharp.csproj", "{4079211A-29CC-7291-1757-F83195ECEB75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fly_test.CSharp.Editor", "fly_test.CSharp.Editor.csproj", "{828C502E-C808-C87B-9EDE-C1FF5153400B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35803F52-A1DB-35B1-2EE0-7AEE6D61980F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35803F52-A1DB-35B1-2EE0-7AEE6D61980F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35803F52-A1DB-35B1-2EE0-7AEE6D61980F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35803F52-A1DB-35B1-2EE0-7AEE6D61980F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4079211A-29CC-7291-1757-F83195ECEB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4079211A-29CC-7291-1757-F83195ECEB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4079211A-29CC-7291-1757-F83195ECEB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4079211A-29CC-7291-1757-F83195ECEB75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828C502E-C808-C87B-9EDE-C1FF5153400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828C502E-C808-C87B-9EDE-C1FF5153400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828C502E-C808-C87B-9EDE-C1FF5153400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828C502E-C808-C87B-9EDE-C1FF5153400B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
